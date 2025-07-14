@@ -2,8 +2,8 @@
 
 # 🌐 Lifecoin — A Human-Centric Cryptocurrency
 
-**Created by:** morfeusm  
-**Date of origin:** July 2025
+**Created by:** morfeusm  (Jakub Fiala)
+**Date of origin:** 14 July 2025
 
 ---
 
